@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Elif 👋
 
-<!--
-**elifrabiakirlii/elifrabiakirlii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4th-year **Civil Engineering** student at **Istanbul Technical University (İTÜ)**, working where construction meets software.
 
-Here are some ideas to get you started:
+- 🏗️ **BIM** modeling and quantity-takeoff automation
+- 🐍 **Python** for data processing and engineering workflows
+- 🖥️ Student staff at **İTÜ IT Department (BİDB)**, system office, currently learning Linux, networking and system administration
+- 🌱 Documenting my learning week by week on my website
+- 🔎 Looking for a long-term **internship in construction / BIM**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Website: [web.itu.edu.tr/kirli22](https://web.itu.edu.tr/kirli22/)
+
+---
+
+**TR:** İTÜ İnşaat Mühendisliği 4. sınıf öğrencisiyim. BIM, metraj otomasyonu ve Python ile mühendislik süreçleri üzerine çalışıyorum; İTÜ BİDB'de sistem yönetimi öğreniyorum.
